@@ -10,6 +10,8 @@ I'm Daniel, Mid Developer.
 
 +1 years (2021) of DevOps Engineering.
 
+Currently learning Rust - Flutter - DevOps
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielcoderX&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
