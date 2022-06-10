@@ -1,9 +1,14 @@
 Hello 👋 :)
+
 I'm Daniel, Mid Developer.
+
 +4 years (2018) of Web Development.
+
 +3 years (2019) of Linux System Administration.
+
 +2 years (2020) of Software Application Development.
-+1 years (2021) of DevOps Engineering
+
++1 years (2021) of DevOps Engineering.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielcoderX&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
