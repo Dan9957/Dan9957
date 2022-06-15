@@ -60,5 +60,5 @@ Currently learning FastApi - Flutter
             </g>
         </g>
     </g>
-</svg>] Instagram
+</svg>](https://instagram.com)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielcoderX&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
