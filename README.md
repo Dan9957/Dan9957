@@ -12,6 +12,6 @@ I'm Daniel, Mid Developer.
 
 Currently learning FastApi - Flutter
 
-![](https://raw.githubusercontent.com/wle8300/instagram-logo/master/logo.svg)
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielcoderX&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
