@@ -12,6 +12,6 @@ I'm Daniel, Mid Developer.
 
 Currently learning FastApi - Flutter
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+![Telegram](https://cdnlogo.com/downloadfile.html?key=bG9nb3MvdC8zNy90ZWxlZ3JhbS5zdmc%3D)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielcoderX&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
