@@ -12,6 +12,6 @@ I'm Daniel, Mid Developer.
 
 Currently learning FastApi - Flutter
 
-![Telegram](https://cdnlogo.com/downloadfile.html?key=bG9nb3MvdC8zNy90ZWxlZ3JhbS5zdmc%3D)
+[Telegram](https://t.me/DanielcoderX)  [Instagram](https://instagram.com/DanielcoderX)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielcoderX&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
