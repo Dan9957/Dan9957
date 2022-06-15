@@ -11,5 +11,7 @@ I'm Daniel, Mid Developer.
 1 years (2021) of DevOps Engineering.
 
 Currently learning FastApi - Flutter
-![https://github.com/wle8300/instagram-logo/blob/master/logo.svg](https://instagram.com)
+
+![https://raw.githubusercontent.com/wle8300/instagram-logo/master/logo.svg](https://instagram.com)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielcoderX&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
