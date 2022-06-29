@@ -10,7 +10,7 @@ I'm Daniel, Mid Developer.
 
 1 years (2021) of DevOps Engineering.
 
-Currently learning FastApi - Flutter
+Currently learning Flutter
 
 [Telegram](https://t.me/DanielcoderX)  [Instagram](https://instagram.com/DanielcoderX)
 
