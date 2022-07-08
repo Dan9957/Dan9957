@@ -8,9 +8,9 @@ I'm Daniel, Mid Developer.
 
 +2 years (2020) of Software Application Development.
 
-1 years (2021) of DevOps Engineering.
++1 years (2021) of DevOps Engineering.
 
-Currently learning Flutter
+Currently learning Kubernetes
 
 [Telegram](https://t.me/DanielcoderX)  [Instagram](https://instagram.com/DanielcoderX)
 
