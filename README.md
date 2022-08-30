@@ -1,5 +1,7 @@
-Hello 👋 :)
 
+# <p align="center">Hello :)</p>
+
+<div align="center">
 I'm Daniel, Mid Developer.
 
 +4 years (2018) of Web Development.
@@ -9,9 +11,24 @@ I'm Daniel, Mid Developer.
 +2 years (2020) of Software Application Development.
 
 +1 years (2021) of DevOps Engineering.
+</div>
 
-Currently learning Kubernetes
+<h3 align="center">
 
-[Telegram](https://t.me/DanielcoderX)  [Instagram](https://instagram.com/DanielcoderX)
+My Most Favorite Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielcoderX&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</h3>
+<table align="center">
+  <tr align="center">
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielcoderX&repo=chise"/>
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielcoderX&repo=georbeh"/>
+    </td>
+  </tr>
+</table>
+<br/>
+Find Me By:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyalghlaby@gmail.com)
