@@ -17,13 +17,14 @@
 
 - 📄 Know about my experiences [https://jobinja.ir/user/DanielHosseinGholami](https://jobinja.ir/user/DanielHosseinGholami)
 
-- ⚡ Fun fact **In Truth: I'm an unkown field guy which he loves to test and use anything**
+- ⚡ Fun fact **In Truth, I'm an unkown field guy which he loves to test and use anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-hosseingholami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-hosseingholami" height="30" width="40" /></a>
 <a href="https://instagram.com/danielcoderx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielcoderx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/danielcoderx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danielcoderx" height="30" width="40" /></a>
+<a href="https://t.me/danielcoderx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="danielcoderx" width="40" height="30" ></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
