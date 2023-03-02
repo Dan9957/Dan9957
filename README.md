@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://jobinja.ir/user/DanielHosseinGholami](https://jobinja.ir/user/DanielHosseinGholami)
 
-- ⚡ Fun fact **In Truth, I'm an unkown field guy which he loves to test and use anything**
+- ⚡ Fun fact **In Truth, I'm an unknown field guy which he loves to test and use anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
