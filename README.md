@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcoderx&label=Profile%20views&color=0e75b6&style=flat" alt="danielcoderx" /> </p>
 
-- 🌱 I’m currently trying learning **Rust/Lua**
+- 🌱 I’m currently trying/learning **Rust/Lua**
 
 - 👯 I’m looking to collaborate on **Crystal/Ruby/Frontend(React or vanilla)**
 
