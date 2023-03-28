@@ -9,13 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanielcoderX/](https://github.com/DanielcoderX/)
 
-- 📝 I regularly write articles on [https://t.me/crystal_with_dx](https://t.me/crystal_with_dx)
+- 📝 I regularly write things on [https://t.me/crystal_with_dx](https://t.me/crystal_with_dx)
 
 - 💬 Ask me about **Anything except AI/Game Development**
 
 - 📫 How to reach me **danyalghlaby@gmail.com**
-
-- 📄 Know about my experiences [https://jobinja.ir/user/DanielHosseinGholami](https://jobinja.ir/user/DanielHosseinGholami)
 
 - ⚡ Fun fact **In Truth, I'm an unknown field guy which he loves to test and use anything**
 
