@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcoderx&label=Profile%20views&color=0e75b6&style=flat" alt="danielcoderx" /> </p>
 
-- 🌱 I’m currently broking my promises and learning ML :)
+- 🌱 I’m currently broking my promises and learning ML,also learning Julia :)
 
 - 👯 I’m looking to collaborate on **Crystal/Ruby/Frontend(React or vanilla)**
 
