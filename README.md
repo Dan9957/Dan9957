@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcoderx&label=Profile%20views&color=0e75b6&style=flat" alt="danielcoderx" /> </p>
 
-- 🌱 I’m currently broking my promises and learning ML :)
+- 🌱 I’m currently trying to centralize my working field:)
 
-- 👯 I’m looking to collaborate on **Crystal/Ruby/Python/Frontend(React or vanilla)**
+- 👯 I’m looking to collaborate on **Anything that I can**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanielcoderX/](https://github.com/DanielcoderX/)
 
