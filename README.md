@@ -1,28 +1,25 @@
-<h1 align="center">Hi 👋, I'm Daniel (they call me DX)</h1>
-<h3 align="center">A passionate Anything developer from Iran/Tehran</h3>
+# Hi there! 👋 I'm DX (pronounced as "Deex")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcoderx&label=Profile%20views&color=0e75b6&style=flat" alt="danielcoderx" /> </p>
+Passionate Anything developer from the heart of Iran/Tehran, currently exploring the enchanting realms of **STEM** 🚀.
 
-- 🌱 I’m currently working on [Bepass](https://github.com/uoosef/bepass) :)
+## 📚 What I'm Into
 
-- 👯 I’m looking to collaborate on **Anything that I can**
+Diving deep into the intricate world of science, technology, engineering, and mathematics, I blend academic rigor with a thirst for cutting-edge innovations. My curiosity extends to the intersection of creativity and coding, where I bring digital art to life with animations and inventive solutions. ✨
 
-- 👨‍💻 All of my projects are available at [https://github.com/DanielcoderX/](https://github.com/DanielcoderX/)
+**Currently, I'm crafting secure and efficient solutions at [Bepass Org](https://github.com/bepass-org), a GoLang project designed to bypass ISP Great Firewall (GFW). Packets leap over walls without a burn, a testament to the power of technology. My dedication to this project is undying, even as my **STEM** studies occupy my time and passion.**
 
-- 📝 I regularly write things on [https://t.me/crystal_with_dx](https://t.me/crystal_with_dx)
+## 🌟 Let's Connect
 
-- 💬 Ask me about **Anything except AI/Game/Rust Development**
+Catch me in the vibrant corridors of the Telegram world, where I share profound insights, thrilling discoveries, and the occasional tech rant. **I predominantly express my thoughts on my Telegram channel**, delving into the depths of tech, coding intricacies, and everything in between:
 
-- 📫 How to reach me **danyalghlaby@gmail.com**
+- Telegram Channel: [Crystal With DX](https://t.me/CrystalWithDX)
+- Telegram ID: [@danielcoderx](https://t.me/danielcoderx)
+- Email: [danyalghlaby@gmail.com](mailto:danyalghlaby@gmail.com)
 
-- ⚡ Fun fact **In Truth, I'm an unknown field guy which he loves to test and use anything**
+## 💡 Fun Facts
 
+- I'm an explorer at heart, ceaselessly curious about the unknown and driven by an unquenchable thirst for knowledge.
+- A steaming cup of coffee is my constant companion, fuelling my creative exploits and late-night coding escapades. ☕
+- As an **open-source advocate**, I wholeheartedly embrace the collaborative spirit of the tech community. My devotion to the world of penguin-lovers (Linux enthusiasts) knows no bounds, cherishing the immense power of open-source software.
 
-<h3 align="left">Support:</h3>
-		<a align="center" href="https://www.coffeete.ir/danielcoderx"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.coffeete.ir/danielcoderx" /></a>
-		
-<div>
-	<p><br/>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcoderx&show_icons=true&locale=en&layout=donut" alt="danielcoderx" />
-	</P>
-</div>
+Feel free to reach out for enthralling discussions, collaborative adventures, or simply to share your own tech escapades. Together, let's learn, innovate, and craft a future where code paints our imaginations! Happy coding! 🌟
