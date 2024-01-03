@@ -16,10 +16,4 @@ Catch me in the vibrant corridors of the Telegram world, where I share profound 
 - Telegram ID: [@danielcoderx](https://t.me/danielcoderx)
 - Email: [danyalghlaby@gmail.com](mailto:danyalghlaby@gmail.com)
 
-## 💡 Fun Facts
-
-- I'm an explorer at heart, ceaselessly curious about the unknown and driven by an unquenchable thirst for knowledge.
-- A steaming cup of coffee is my constant companion, fuelling my creative exploits and late-night coding escapades. ☕
-- As an **open-source advocate**, I wholeheartedly embrace the collaborative spirit of the tech community. My devotion to the world of penguin-lovers (Linux enthusiasts) knows no bounds, cherishing the immense power of open-source software.
-
 Feel free to reach out for enthralling discussions, collaborative adventures, or simply to share your own tech escapades. Together, let's learn, innovate, and craft a future where code paints our imaginations! Happy coding! 🌟
