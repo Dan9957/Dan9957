@@ -12,7 +12,6 @@ Diving deep into the intricate world of science, technology, engineering, and ma
 
 Catch me in the vibrant corridors of the tech world, where I share profound insights, thrilling discoveries, and the occasional tech rant. **I predominantly express my thoughts on my Telegram channel**, delving into the depths of tech, coding intricacies, and everything in between:
 
-- Telegram Channel: [Crystal with DX](https://t.me/TechJourneysDX)
 - Telegram ID: [@danielcoderx](https://t.me/danielcoderx)
 - Email: [danyalghlaby@gmail.com](mailto:danyalghlaby@gmail.com)
 
